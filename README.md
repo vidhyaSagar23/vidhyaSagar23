@@ -1,4 +1,4 @@
- I'm a Java Developer. My playground? Spring Boot, MVC, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
+Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web Applications. My playground? Spring Boot, MVC, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
 
 •	🔭 I’m currently working on Spring Boot
 
