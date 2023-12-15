@@ -1,5 +1,11 @@
-### Hi there 👋
+ I'm a Java Developer. My playground? Spring Boot, MVC, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
 
+•	🔭 I’m currently working on Spring Boot
+•	🌱 I’m currently learning AI
+•	💬 Ask me about Java
+•	📫 How to reach me: http://bit.ly/sagarvp2k
+
+  
 <!--
 **vidhyaSagar23/vidhyaSagar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
