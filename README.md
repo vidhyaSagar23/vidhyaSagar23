@@ -2,7 +2,7 @@ Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web App
 
 •	🔭 I’m currently working on Spring Boot
 
-•	🌱 I’m currently learning AI
+•	🌱 I’m currently learning Selenium And Automation Testing
 
 •	💬 Ask me about Java
 
