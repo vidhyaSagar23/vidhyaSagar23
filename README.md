@@ -8,6 +8,8 @@ Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web App
 
 •	📫 How to reach me: http://bit.ly/sagarvp2k
 
+•	📫 Visit my blog now: https://sagarvp2k.hashnode.dev/
+
 Languages, FrameWorks and Tools:
 1. Java Programming
 2. Spring Boot, Spring MVC, Spring Core
