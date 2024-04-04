@@ -1,4 +1,4 @@
-Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web Applications. My playground? Spring Boot, MVC, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
+Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web Applications. My playground? Spring Boot, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
 
 •	🔭 I’m currently working on Spring Boot
 
@@ -12,12 +12,11 @@ Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web App
 
 Languages, FrameWorks and Tools:
 1. Java Programming
-2. Spring Boot, Spring MVC, Spring Core
+2. Spring Boot
 3. Hibernate, JDBC
-4. Java Script, HTML, CSS, React JS
+4. Java Script, HTML, CSS.
 5. MySQL
 6. BootStrap
-7. c programming
   
 <!--
 **vidhyaSagar23/vidhyaSagar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
