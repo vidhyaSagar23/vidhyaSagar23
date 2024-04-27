@@ -10,7 +10,7 @@ Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web App
 
 •	📫 Visit my blog now: https://sagarvp2k.hashnode.dev
 
-• ⚡ watch out my **To-Do Web App** right here : https://sagarvp-todo.netlify.app/
+• ⚡ watch out my **To-Do React App** right here : https://sagarvp-todo.netlify.app/
 
 Languages, FrameWorks and Tools:
 1. Java Programming
