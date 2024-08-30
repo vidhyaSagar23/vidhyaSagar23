@@ -1,8 +1,11 @@
 Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web Applications. My playground? Spring Boot, RESTful API. Check out some of my top-notch work that I've got pinned right here for you to explore. 😄🚀
 
-•	🔭 I’m currently working on Spring Boot
+Company : Qapitol QA services & pvt ltd, Bangalore, India.
+Role : Software Test Engineer.
 
-•	🌱 I’m currently learning Selenium And Automation Testing
+•	🔭 I’m currently working on Automation
+
+•	🌱 I’m currently OAuth.
 
 •	💬 Ask me about Java
 
@@ -16,9 +19,11 @@ Languages, FrameWorks and Tools:
 1. Java Programming
 2. Spring Boot
 3. Hibernate, JDBC
-4. Java Script, HTML, CSS.
-5. MySQL
-6. BootStrap
+4. Selenium
+5. TestNG Framework, PyTest Framework
+6. Java Script, React JS, HTML, CSS.
+7. SQL
+8. BootStrap
   
 <!--
 **vidhyaSagar23/vidhyaSagar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
