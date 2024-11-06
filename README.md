@@ -3,11 +3,11 @@ Hii..👋 I'm a Java Full Stack Developer working and developing Dynamic Web App
 Company : Qapitol QA services & pvt ltd, Bangalore, India.
 Role : Software Test Engineer.
 
-•	🔭 I’m currently working on Automation
+•	🔭 I’m currently working on Automation.
 
-•	🌱 I’m currently OAuth.
+•	🌱 I’m currently Learning OAuth.
 
-•	💬 Ask me about Java
+•	💬 Ask me anything about Java.
 
 •	📫 How to reach me: http://bit.ly/sagarvp2k
 
